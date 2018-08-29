@@ -1,0 +1,13 @@
+c:\users\gercules\documents\visual studio 2017\Projects\WF_ImgurLoader\WF_ImgurLoader\bin\Debug\WF_ImgurLoader.exe.config
+c:\users\gercules\documents\visual studio 2017\Projects\WF_ImgurLoader\WF_ImgurLoader\bin\Debug\WF_ImgurLoader.exe
+c:\users\gercules\documents\visual studio 2017\Projects\WF_ImgurLoader\WF_ImgurLoader\bin\Debug\WF_ImgurLoader.pdb
+c:\users\gercules\documents\visual studio 2017\Projects\WF_ImgurLoader\WF_ImgurLoader\bin\Debug\xNet.dll
+c:\users\gercules\documents\visual studio 2017\Projects\WF_ImgurLoader\WF_ImgurLoader\obj\Debug\WF_ImgurLoader.Form1.resources
+c:\users\gercules\documents\visual studio 2017\Projects\WF_ImgurLoader\WF_ImgurLoader\obj\Debug\WF_ImgurLoader.Properties.Resources.resources
+c:\users\gercules\documents\visual studio 2017\Projects\WF_ImgurLoader\WF_ImgurLoader\obj\Debug\WF_ImgurLoader.csproj.GenerateResource.Cache
+c:\users\gercules\documents\visual studio 2017\Projects\WF_ImgurLoader\WF_ImgurLoader\obj\Debug\WF_ImgurLoader.exe
+c:\users\gercules\documents\visual studio 2017\Projects\WF_ImgurLoader\WF_ImgurLoader\obj\Debug\WF_ImgurLoader.pdb
+C:\Users\Gercules\documents\visual studio 2017\Projects\WF_ImgurLoader\WF_ImgurLoader\bin\Debug\Imgur.API.dll
+C:\Users\Gercules\documents\visual studio 2017\Projects\WF_ImgurLoader\WF_ImgurLoader\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gercules\documents\visual studio 2017\Projects\WF_ImgurLoader\WF_ImgurLoader\bin\Debug\Imgur.API.xml
+C:\Users\Gercules\documents\visual studio 2017\Projects\WF_ImgurLoader\WF_ImgurLoader\bin\Debug\Newtonsoft.Json.xml
